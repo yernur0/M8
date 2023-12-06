@@ -190,4 +190,4 @@ async def voice(ctx, channel_name):
         await ctx.send("Канал с таким именем уже существует.")
 
 
-bot.run("MTEwOTM4MjcwMTMzMDQ4NTMyOA.GMpRYZ.3LF1uqaIvDuAJgdc9OETYWRyEio2dBp8_YZ0dQ")
+bot.run("TOKEN")
